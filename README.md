@@ -10,26 +10,28 @@ _New to Git and GitHub? This free online course will get you up to speed quickly
 
 # Replace this heading with your team/submission name
 
-- [Project summary](#project-summary)
-  - [The issue we are hoping to solve](#the-issue-we-are-hoping-to-solve)
-  - [How our technology solution can help](#how-our-technology-solution-can-help)
-  - [Our idea](#our-idea)
-- [Technology implementation](#technology-implementation)
-  - [IBM watsonx product(s) used](#ibm-ai-services-used)
-  - [Other IBM technology used](#other-ibm-technology-used)
-  - [Solution architecture](#solution-architecture)
-- [Presentation materials](#presentation-materials)
-  - [Solution demo video](#solution-demo-video)
-  - [Project development roadmap](#project-development-roadmap)
-- [Additional details](#additional-details)
-  - [How to run the project](#how-to-run-the-project)
-  - [Live demo](#live-demo)
-- [About this template](#about-this-template)
-  - [Contributing](#contributing)
-  - [Versioning](#versioning)
-  - [Authors](#authors)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
+- [Replace this heading with your team/submission name](#replace-this-heading-with-your-teamsubmission-name)
+  - [Project summary](#project-summary)
+    - [The issue we are hoping to solve](#the-issue-we-are-hoping-to-solve)
+    - [How our technology solution can help](#how-our-technology-solution-can-help)
+    - [Our idea](#our-idea)
+  - [Technology implementation](#technology-implementation)
+    - [IBM watsonx product(s) used](#ibm-watsonx-products-used)
+    - [Other IBM technology used](#other-ibm-technology-used)
+    - [Solution architecture](#solution-architecture)
+  - [Presentation materials](#presentation-materials)
+    - [Solution demo video](#solution-demo-video)
+    - [Project development roadmap](#project-development-roadmap)
+  - [Additional details](#additional-details)
+    - [How to run the project](#how-to-run-the-project)
+    - [Live demo](#live-demo)
+  - [About this template](#about-this-template)
+    - [Contributing](#contributing)
+    - [Versioning](#versioning)
+    - [Authors](#authors)
+    - [License](#license)
+    - [Acknowledgments](#acknowledgments)
+    - [Add readme](#add-readme)
 
 _INSTRUCTIONS: Below are the suggested sections to include in your README file to make sure your project is well documented. You can remove this instruction text._
 
@@ -159,3 +161,7 @@ This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE)
 ### Acknowledgments
 
 - Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
+
+### Add readme
+lorem
+ipsum
